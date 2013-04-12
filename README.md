@@ -8,8 +8,8 @@ Dependencies
 
 - Nodejs
 - Npm
-- Connection(Nodejs Package)
+- Connect (Nodejs Package)
 
 Don't forget to manualy install the connection middeware
 
-npm install connection
+`npm install connect`
